@@ -189,5 +189,14 @@ LIMIT 25;
 
 *The most optimal skills for a Data Scientist to learn, sorted by demand count*
 
+Here's a breakdown of the findings: 
+
+- **High-Demand Programming Languages** : Python and R emerge as the top languages, with Python leading with a demand count of 4,312 and R following closely behind with 2,486. Despite their high demand, their average salaries are around $138,049 for Python and $135,165 for R, which indicates that proficiency in these languages is highly sought after but also relatively well-compensated.
+
+- **Cloud Tools and Technologies** : Specialized technologies such as Tableau, AWS, Spark, and TensorFlow exhibit significant demand, with Tableau leading at 1,278 and AWS following with 1,016. These skills command relatively high average salaries, ranging from $131,636 for Tableau to $144,399 for Spark, reflecting the increasing importance of cloud platforms and big data technologies in data analysis.
+
+- **Business Intelligence and Visualization Tools** : Tableau stands out as the primary tool in this category, with a demand count of 1,278 and an average salary of $131,636. This highlights the critical role of data visualization and business intelligence tools in deriving actionable insights from data.
+
+- **Database Technologies** : Proficiency in database technologies such as SQL (demand count of 3,151) and Excel (demand count of 617) remains crucial for data scientist. These skills are fundamental for data storage, retrieval, and management, and they typically command average salaries ranging from $124,593 for Excel to $138,430 for SQL.
 
 # Conclusion
