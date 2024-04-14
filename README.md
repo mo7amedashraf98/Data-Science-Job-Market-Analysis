@@ -208,3 +208,6 @@ Here's a breakdown of the findings:
 
 
 # Conclusion
+
+### Final Insights from the analysis:
+1. 
