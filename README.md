@@ -199,4 +199,12 @@ Here's a breakdown of the findings:
 
 - **Database Technologies** : Proficiency in database technologies such as SQL (demand count of 3,151) and Excel (demand count of 617) remains crucial for data scientist. These skills are fundamental for data storage, retrieval, and management, and they typically command average salaries ranging from $124,593 for Excel to $138,430 for SQL.
 
+# What I learned
+- **Complex Query Writing** : I mastered query writing, merging tables using different types of joins and writing complex CTEs.
+
+- **Data Aggregation** : Got better using GROUP BY statements and summarizing data using aggregate functions like COUNT() and AVG().
+
+- **Analytical Skills** : Sharpened my real-world problem solving by turning questions into actionable SQL queries to uncover needed insights.
+
+
 # Conclusion
