@@ -157,6 +157,31 @@ GROUP BY
 ORDER BY
     salary_avg DESC;
 ```
+Here's a breakdown of the results for top paying skills for Data Scientist roles: 
+
+- **High Demand for Specialized Skills** : Skills such as GDPR, Golang, Atlassian, Selenium, and OpenCV command high salaries, which reflects the industry's need for specialized expertise in those certain skills.
+
+- **Emerging Technologies** : Emerging technologies like Neo4j, MicroStrategy, DynamoDB, and DataRobot are also highly valued, which indicates a growing demand for skills in graph databases, business intelligence, NoSQL databases, and automated machine learning.
+
+
+- **Programming Languages** : Proficiency in programming languages such as PHP, Solidity, C, Go, Julia, and Rust is rewarded with competitive salaries, highlighting the importance of software development skills in data analytics roles.
+
+- **Cloud and Analytics Platforms** : Familiarity with cloud platforms like Watson, Cassandra, and Elixir, as well as analytics tools like Qlik and Looker, is associated with above-average salaries, emphasizing the significance of cloud computing and data visualization skills in the data analytics field.
+
+| Skill       | Average Salary |
+|-------------|----------------|
+| GDPR        | $217,738       |
+| Golang      | $208,750       |
+| Atlassian   | $189,700       |
+| Selenium    | $180,000       |
+| OpenCV      | $172,500       |
+| Neo4j       | $171,655       |
+| MicroStrategy | $171,147     |
+| DynamoDB    | $169,670       |
+| PHP         | $168,125       |
+| Tidyverse   | $165,513       |
+
+*Top paying skills and their average salaries*
 
 ## 5. Optimal Skills to Learn
 Combining insights from demand and salaries data (queries 3 & 4) to uncover insights about the optimal skills to learn (high demand & high pay)
@@ -221,4 +246,6 @@ Here's a breakdown of the findings:
 # Conclusion
 
 ### Final Insights from the analysis:
-1. 
+1. **Top Paying Data Science Jobs** : The top paying Data Scientist Jobs offers a wide range of salaries, with the highest at 550,000$ per year.
+2. **Top Paying Skills** : High paying Data Scientist roles requires proficency in SQL, Python and R. 
+3. **In-demand Skills** : Python, SQL and R are also the most in-demand skills for a Data Scientist role, followed by cloud technologies such as AWS and Visualization tools such as Tableau.
