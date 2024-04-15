@@ -29,6 +29,13 @@ For my analysis, I used various tools, some of which were new experiences:
 
 - **Git & GitHub** : Utilized for version control and sharing my queries, fostering collaboration and facilitating project management.
 
+# What I learned
+- **Complex Query Writing** : I mastered query writing, merging tables using different types of joins and writing complex CTEs.
+
+- **Data Aggregation** : Got better using GROUP BY statements and summarizing data using aggregate functions like COUNT() and AVG().
+
+- **Analytical Skills** : Sharpened my real-world problem solving by turning questions into actionable SQL queries to uncover needed insights.
+
 # The Analysis
 The main goal of these queries is to uncover certain insights about the Data Scientist roles in Egypt. So let's have a deeper dive on how I approached each question and what are the uncovered inisghts.
 
@@ -235,17 +242,11 @@ Here's a breakdown of the findings:
 
 - **Database Technologies** : Proficiency in database technologies such as SQL (demand count of 3,151) and Excel (demand count of 617) remains crucial for data scientist. These skills are fundamental for data storage, retrieval, and management, and they typically command average salaries ranging from $124,593 for Excel to $138,430 for SQL.
 
-# What I learned
-- **Complex Query Writing** : I mastered query writing, merging tables using different types of joins and writing complex CTEs.
-
-- **Data Aggregation** : Got better using GROUP BY statements and summarizing data using aggregate functions like COUNT() and AVG().
-
-- **Analytical Skills** : Sharpened my real-world problem solving by turning questions into actionable SQL queries to uncover needed insights.
-
-
 # Conclusion
 
 ### Final Insights from the analysis:
 1. **Top Paying Data Science Jobs** : The top paying Data Scientist Jobs offers a wide range of salaries, with the highest at 550,000$ per year.
 2. **Top Paying Skills** : High paying Data Scientist roles requires proficency in SQL, Python and R. 
 3. **In-demand Skills** : Python, SQL and R are also the most in-demand skills for a Data Scientist role, followed by cloud technologies such as AWS and Visualization tools such as Tableau.
+4. **Skills with highest salaries** : Specialized salaries such as GDPR, Golang, Atlassian, Selenium, and OpenCV command high salaries which indicates the industries needs for specialized expertise in those skills.
+5. **Optimal Skills to Learn** : SQL & Python leads the market demand along with high salaries, which indicates that these are the most optimal skills in the Data market to learn, followed by R, AWS and Tableau.
