@@ -1,12 +1,13 @@
 # Introduction 
 
-Dive into the exciting world of the data job market with me! This project focuses on Data Scientist roles in Egypt, unveiling insights into top-paying positions, In-demand skills, and where high demand meets high salaries.
+Dive into the exciting world of the data job market with me! This project focuses on Data Scientist roles, unveiling insights into top-paying positions, In-demand skills, and where high demand meets high salaries.
 
 Curious to see the queries? [Check them out here](/Final%20Project/)
 
 **Note** : 
 
 I tried to work on this project to cover inisghts about the Egyptian Job market, but unfortunatley the Egyptian market data was too limited. So I decided to go with remote Data Scientist jobs. 
+
 # Why this Project?
 
 This project is the final project of Luke Barousse's SQL course, aiming to uncover insights about Egypt's data job market using real-world data provided by Luke. The dataset provides valuable information on job titles, salaries, locations, and essential skills.
