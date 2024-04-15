@@ -18,7 +18,6 @@ WHERE
     job_title_short = 'Data Scientist' AND 
     salary_year_avg IS NOT NULL
 ORDER BY salary_year_avg DESC
-LIMIT 10
 )
 
 SELECT 
@@ -32,3 +31,4 @@ INNER JOIN skills_dim ON
     skills_job_dim.skill_id = skills_dim.skill_id
 ORDER BY 
     salary_year_avg
+LIMIT 20;

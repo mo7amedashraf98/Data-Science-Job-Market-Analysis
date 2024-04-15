@@ -51,7 +51,13 @@ WHERE
 ORDER BY salary_year_avg DESC
 LIMIT 10;
 ```
+Here's a breakdown of the findings: 
 
+- **Wide Salary Range** : The first 10 results shows that the average salaries for the Data Scientist role range from 300,000$ to 550,000$ per year. Which indicates a significant variability in compensation for this roles that is likely influeced by the level of experience, industry and job titles.
+
+- **Diversity of Employers** : The results shows that there's a diversity in employers in different industries such as Reddit, Teramind, Lawrence Harvey, etc. Which indicates that this role is sought after accross different industries such as Technology, Healtcare and retail.
+
+- **Variety of Job Titles** : The results shows a variety in job titles, which indicates the breadth of roles and responsibilities in the field and suggests that the Data Scientist role requires a wide  range of skills and expertise that suits different organizational needs and objectives.
 
 ## 2. Needed Skills for the top paying jobs
 To know what are the required skills needed for the Data Scientist role in Egypt, I joined the job postings table with the skills data table providing insights into what skills the employers value the most. 
@@ -87,6 +93,11 @@ INNER JOIN skills_dim ON
 ORDER BY 
     salary_year_avg
 ```
+
+Here's a breakdown of the most demanded skills in the top 20 jobs: 
+- **SQL**: SQL is leading with a count of 5
+- **Python** : Python follows  closely at number two with a count of 4. 
+- **R**:  R comes in third place with a count of 3. 
 
 ## 3. Top In-Demanded Skills for Data Scientist roles
 The aim of this query is to focus on the skills most demanded in job postings. I tackled this query in 2 different ways, I'll go here with the easiest one, if you want to see the other one [you'll find it here](/Final%20Project/3_top_demanded_skills.sql).
