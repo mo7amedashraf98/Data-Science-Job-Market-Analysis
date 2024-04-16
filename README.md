@@ -38,7 +38,7 @@ For my analysis, I used various tools, some of which were new experiences:
 - **Analytical Skills** : Sharpened my real-world problem solving by turning questions into actionable SQL queries to uncover needed insights.
 
 # The Analysis
-The main goal of these queries is to uncover certain insights about the Data Scientist roles in Egypt. So let's have a deeper dive on how I approached each question and what are the uncovered inisghts.
+The main goal of these queries is to uncover certain insights about the Data Scientist roles. So let's have a deeper dive on how I approached each question and what are the uncovered inisghts.
 
 ## 1. Top Paying Data Jobs
 To identify the highest paying Data Science jobs, I filtered the data by the average salary and location focusing on jobs in Egypt.
